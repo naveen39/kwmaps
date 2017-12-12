@@ -22,3 +22,4 @@ try:
 except Exception as e:
     email_send('***RDS_CONFIGURATION')
     print(e)
+# test updated for git
